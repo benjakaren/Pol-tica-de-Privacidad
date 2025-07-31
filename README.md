@@ -44,7 +44,7 @@
   <p>Implementamos las mejores prácticas para proteger cualquier información que se maneje localmente en tu dispositivo.</p>
   
   <h2>Contacto</h2>
-  <p>Si tenés alguna pregunta o inquietud sobre esta política, podés contactarnos en: <a href="mailto:contacto@benjibitstudio.com">contacto@benjibitstudio.com</a></p>
+  <p>Si tenés alguna pregunta o inquietud sobre esta política, podés contactarnos en: <a href="mailto:contacto@benjibitstudio.com">benjibitstudio@gmail.com</a></p>
   
   <footer>
     &copy; 2025 Benji Bit Studio. Todos los derechos reservados.
